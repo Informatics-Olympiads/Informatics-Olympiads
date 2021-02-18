@@ -1,2 +1,1 @@
-# Informatics-Olympiads
-Welcome to Informatica !!
+#### <div align="center"> 🎊 Welcome to Informatica 🎊
